@@ -13,6 +13,6 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica2/rsync3.png)
 
-### **Programar tarea con crontab **
+### **Programar tarea con crontab**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica2/rsync4.png)
