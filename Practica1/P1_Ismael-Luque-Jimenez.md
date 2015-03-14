@@ -1,6 +1,6 @@
 # PRÁCTICA 1 SWAP
 ## ISMAEL LUQUE JIMÉNEZ
 
-![img](http://i60.tinypic.com/2rmv0cx.jpg)
+Máquina Virtual 1: ![img](https://github.com/isma94/SWAP2015/blob/master/Practica1/apache1.png)
 
-![img](http://i62.tinypic.com/c6iw6.png)
+Máquina Virtual 2: ![img](https://github.com/isma94/SWAP2015/blob/master/Practica1/apache2.png)
