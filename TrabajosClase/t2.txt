@@ -1,0 +1,15 @@
+### PREGUNTAS TEMA 2 ###
+
+1. ¿Cuál de estos eventos conllevaría un tiempo de no-disponibilidad no programado?
+		a) Actualizaciones del SO
+		b) Actualizaciones del hardware
+		c) Fallo de un componente del sistema
+		d) Actualizaciones de la aplicación
+	RESPUESTA CORRECTA: (c)
+	
+2. ¿Cuál de estos algoritmos no es utilizado por los balanceadores de carga para decidir qué máquina final servirá cada petición?
+		a) Por probabilidades
+		b) Según el menor número de conexiones
+		c) Según el tiempo de respuesta
+		d) Por turnos (round-robin)
+	RESPUESTA CORRECTA: (a)
