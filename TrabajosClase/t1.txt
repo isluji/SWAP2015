@@ -1,0 +1,15 @@
+### PREGUNTAS TEMA 1 ###
+
+1. ¿Cuál es la mejor solución en aquellos casos en los que haya que dar servicio a gran cantidad de usuarios?
+		a) Montar un servidor en una máquina
+		b) Adquirir un segundo servidor para desarrollo
+		c) Tener varios servidores tanto de producción como de desarrollo
+		d) Montar una granja web
+	RESPUESTA CORRECTA: (d)
+	
+2. ¿Cuál de estos factores es menos importante a la hora de planificar un sistema web?
+		a) Escalabilidad
+		b) Complejidad
+		c) Seguridad
+		d) Disponibilidad
+	RESPUESTA CORRECTA: (b)
