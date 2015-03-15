@@ -1,4 +1,4 @@
-### PREGUNTAS TEMA 2 ###
+### PREGUNTAS TEST: TEMA 2 ###
 
 1. ¿Cuál de estos eventos conllevaría un tiempo de no-disponibilidad no programado?
 		a) Actualizaciones del SO
