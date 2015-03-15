@@ -1,0 +1,15 @@
+### PREGUNTAS TEST: TEMA 3 ###
+
+1. ¿Cuál de estas configuraciones de red es más segura para una granja web?
+		a) Configuración de DMZ tradicional
+		b) Configuración de DMZ simple
+		c) Configuración de DMZ doble
+		d) Configuración sin DMZ
+	RESPUESTA CORRECTA: (c)
+	
+2. ¿Cuál de estas configuraciones sería la óptima para un servidor de bases de datos en un DMZ doble?
+		a) Conexión sólo al front-rail
+		b) Conexión sólo al back-rail
+		c) Conexión a otra red segura
+		d) Doble conexión al front-rail y back-rail
+	RESPUESTA CORRECTA: (b)
