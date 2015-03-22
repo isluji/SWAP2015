@@ -1,13 +1,13 @@
-# PR罜TICA 3 SWAP
-## ISMAEL LUQUE JIM蒒EZ
+# PR脕CTICA 3 SWAP
+## ISMAEL LUQUE JIM脡NEZ
 
-## [NGINX]
+## ->[NGINX]<-
 
 ### **Instalar nginx en Ubuntu Server**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx1.png)
 
-### **Configuraci髇 de nginx con round-robin**
+### **Configuraci贸n de nginx con round-robin**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx2.png)
 
@@ -15,11 +15,11 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx3.png)
 
-### **Configuraci髇 de nginx con ponderaci髇**
+### **Configuraci贸n de nginx con ponderaci贸n**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx4.png)
 
-### **Balanceo de carga con ponderaci髇 mediante nginx**
+### **Balanceo de carga con ponderaci贸n mediante nginx**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx5.png)
 
@@ -29,7 +29,7 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/haproxy1.png)
 
-### **Configuraci髇 de haproxy con round-robin**
+### **Configuraci贸n de haproxy con round-robin**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/haproxy2.png)
 
@@ -37,10 +37,10 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/haproxy3.png)
 
-### **Configuraci髇 de haproxy con ponderaci髇**
+### **Configuraci贸n de haproxy con ponderaci贸n**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/haproxy4.png)
 
-### **Balanceo de carga con ponderaci髇 mediante haproxy**
+### **Balanceo de carga con ponderaci贸n mediante haproxy**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/haproxy5.png)
