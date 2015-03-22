@@ -1,7 +1,7 @@
 # PRÁCTICA 3 SWAP
 ## ISMAEL LUQUE JIMÉNEZ
 
-## ->[NGINX]<-
+## -> [NGINX] <-
 
 ### **Instalar nginx en Ubuntu Server**
 
