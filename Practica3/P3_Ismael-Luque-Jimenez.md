@@ -23,7 +23,7 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica3/capturas/nginx5.png)
 
-## [HAPROXY]
+## -> [HAPROXY] <-
 
 ### **Instalar haproxy en Ubuntu Server**
 
