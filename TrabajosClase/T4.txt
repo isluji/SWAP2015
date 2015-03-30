@@ -1,0 +1,15 @@
+### PREGUNTAS TEST: TEMA 4 ###
+
+1. ¿Cuál de estos algoritmos de balanceo sólo es adecuado si vamos a servir aplicaciones o servicios sencillos?
+		a) Balanceo basado en tiempo de respuesta
+		b) Balanceo basado en prioridad
+		c) Balanceo basado en menor número de conexiones
+		d) Balanceo basado en ponderación
+	RESPUESTA CORRECTA: (c)
+
+2. ¿Cuál de estos servicios de balanceo es software propietario?
+		a) NginX
+		b) BIG-IP
+		c) HAProxy
+		d) Apache
+	RESPUESTA CORRECTA: (b)
