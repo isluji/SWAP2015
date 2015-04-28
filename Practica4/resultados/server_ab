@@ -1,0 +1,430 @@
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   53.746 seconds
+Complete requests:      100
+Failed requests:        9
+   (Connect: 0, Receive: 0, Length: 9, Exceptions: 0)
+Total transferred:      23589 bytes
+HTML transferred:       2289 bytes
+Requests per second:    1.86 [#/sec] (mean)
+Time per request:       2687.290 [ms] (mean)
+Time per request:       537.458 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.43 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.4      2       3
+Processing:  2576 2684  90.1   2666    3036
+Waiting:     2576 2679  83.3   2661    3007
+Total:       2578 2686  90.2   2668    3038
+
+Percentage of the requests served within a certain time (ms)
+  50%   2668
+  66%   2686
+  75%   2697
+  80%   2710
+  90%   2739
+  95%   3036
+  98%   3037
+  99%   3038
+ 100%   3038 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   59.537 seconds
+Complete requests:      100
+Failed requests:        7
+   (Connect: 0, Receive: 0, Length: 7, Exceptions: 0)
+Total transferred:      23593 bytes
+HTML transferred:       2293 bytes
+Requests per second:    1.68 [#/sec] (mean)
+Time per request:       2976.828 [ms] (mean)
+Time per request:       595.366 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.9      2       8
+Processing:  2612 2973 895.0   2749    6866
+Waiting:     2612 2972 894.5   2748    6866
+Total:       2614 2974 895.1   2751    6869
+
+Percentage of the requests served within a certain time (ms)
+  50%   2751
+  66%   2792
+  75%   2813
+  80%   2902
+  90%   3009
+  95%   6800
+  98%   6852
+  99%   6869
+ 100%   6869 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   65.971 seconds
+Complete requests:      100
+Failed requests:        11
+   (Connect: 0, Receive: 0, Length: 11, Exceptions: 0)
+Total transferred:      23589 bytes
+HTML transferred:       2289 bytes
+Requests per second:    1.52 [#/sec] (mean)
+Time per request:       3298.559 [ms] (mean)
+Time per request:       659.712 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.35 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.8      2       4
+Processing:  2764 3294 749.9   3149    6560
+Waiting:     2764 3293 750.1   3146    6560
+Total:       2766 3296 750.4   3151    6564
+
+Percentage of the requests served within a certain time (ms)
+  50%   3151
+  66%   3179
+  75%   3199
+  80%   3212
+  90%   3300
+  95%   6471
+  98%   6548
+  99%   6564
+ 100%   6564 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   58.686 seconds
+Complete requests:      100
+Failed requests:        7
+   (Connect: 0, Receive: 0, Length: 7, Exceptions: 0)
+Total transferred:      23591 bytes
+HTML transferred:       2291 bytes
+Requests per second:    1.70 [#/sec] (mean)
+Time per request:       2934.317 [ms] (mean)
+Time per request:       586.863 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.6      2       4
+Processing:  2661 2931 877.7   2729    6759
+Waiting:     2644 2930 878.0   2728    6759
+Total:       2662 2933 878.0   2731    6762
+
+Percentage of the requests served within a certain time (ms)
+  50%   2731
+  66%   2744
+  75%   2757
+  80%   2770
+  90%   2808
+  95%   6698
+  98%   6761
+  99%   6762
+ 100%   6762 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   59.397 seconds
+Complete requests:      100
+Failed requests:        9
+   (Connect: 0, Receive: 0, Length: 9, Exceptions: 0)
+Total transferred:      23591 bytes
+HTML transferred:       2291 bytes
+Requests per second:    1.68 [#/sec] (mean)
+Time per request:       2969.866 [ms] (mean)
+Time per request:       593.973 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.4      2       3
+Processing:  2620 2966 1012.7   2738    7359
+Waiting:     2619 2965 1011.2   2738    7359
+Total:       2621 2967 1012.8   2739    7361
+
+Percentage of the requests served within a certain time (ms)
+  50%   2739
+  66%   2750
+  75%   2758
+  80%   2765
+  90%   2814
+  95%   7340
+  98%   7361
+  99%   7361
+ 100%   7361 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   58.566 seconds
+Complete requests:      100
+Failed requests:        11
+   (Connect: 0, Receive: 0, Length: 11, Exceptions: 0)
+Total transferred:      23588 bytes
+HTML transferred:       2288 bytes
+Requests per second:    1.71 [#/sec] (mean)
+Time per request:       2928.282 [ms] (mean)
+Time per request:       585.656 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.5      2       3
+Processing:  2663 2926 873.7   2724    6729
+Waiting:     2662 2925 873.8   2723    6728
+Total:       2665 2927 873.8   2726    6731
+
+Percentage of the requests served within a certain time (ms)
+  50%   2726
+  66%   2741
+  75%   2754
+  80%   2770
+  90%   2815
+  95%   6690
+  98%   6730
+  99%   6731
+ 100%   6731 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   58.050 seconds
+Complete requests:      100
+Failed requests:        16
+   (Connect: 0, Receive: 0, Length: 16, Exceptions: 0)
+Total transferred:      23582 bytes
+HTML transferred:       2282 bytes
+Requests per second:    1.72 [#/sec] (mean)
+Time per request:       2902.521 [ms] (mean)
+Time per request:       580.504 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.40 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.4      2       3
+Processing:  2604 2899 961.3   2684    7091
+Waiting:     2603 2898 961.6   2684    7091
+Total:       2605 2901 961.5   2686    7093
+
+Percentage of the requests served within a certain time (ms)
+  50%   2686
+  66%   2698
+  75%   2707
+  80%   2714
+  90%   2742
+  95%   7035
+  98%   7080
+  99%   7093
+ 100%   7093 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   59.527 seconds
+Complete requests:      100
+Failed requests:        10
+   (Connect: 0, Receive: 0, Length: 10, Exceptions: 0)
+Total transferred:      23590 bytes
+HTML transferred:       2290 bytes
+Requests per second:    1.68 [#/sec] (mean)
+Time per request:       2976.361 [ms] (mean)
+Time per request:       595.272 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.5      2       3
+Processing:  2570 2972 1013.1   2741    7407
+Waiting:     2570 2971 1013.2   2740    7406
+Total:       2572 2974 1013.2   2742    7408
+
+Percentage of the requests served within a certain time (ms)
+  50%   2742
+  66%   2760
+  75%   2776
+  80%   2794
+  90%   2883
+  95%   7342
+  98%   7367
+  99%   7408
+ 100%   7408 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   58.676 seconds
+Complete requests:      100
+Failed requests:        6
+   (Connect: 0, Receive: 0, Length: 6, Exceptions: 0)
+Total transferred:      23593 bytes
+HTML transferred:       2293 bytes
+Requests per second:    1.70 [#/sec] (mean)
+Time per request:       2933.800 [ms] (mean)
+Time per request:       586.760 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.39 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1    2   0.5      2       3
+Processing:  2563 2929 899.5   2725    6854
+Waiting:     2563 2929 899.6   2724    6854
+Total:       2565 2931 899.8   2727    6857
+
+Percentage of the requests served within a certain time (ms)
+  50%   2727
+  66%   2745
+  75%   2756
+  80%   2774
+  90%   2802
+  95%   6787
+  98%   6846
+  99%   6857
+ 100%   6857 (longest request)
+This is ApacheBench, Version 2.3 <$Revision: 1604373 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.56.101 (be patient).....done
+
+
+Server Software:        Apache/2.2.22
+Server Hostname:        192.168.56.101
+Server Port:            80
+
+Document Path:          /script.php
+Document Length:        23 bytes
+
+Concurrency Level:      5
+Time taken for tests:   58.118 seconds
+Complete requests:      100
+Failed requests:        11
+   (Connect: 0, Receive: 0, Length: 11, Exceptions: 0)
+Total transferred:      23588 bytes
+HTML transferred:       2288 bytes
+Requests per second:    1.72 [#/sec] (mean)
+Time per request:       2905.901 [ms] (mean)
+Time per request:       581.180 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.40 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    2   0.5      2       2
+Processing:  2607 2903 952.5   2683    7046
+Waiting:     2607 2902 951.9   2682    7044
+Total:       2609 2905 952.5   2684    7048
+
+Percentage of the requests served within a certain time (ms)
+  50%   2684
+  66%   2701
+  75%   2709
+  80%   2719
+  90%   2784
+  95%   7006
+  98%   7046
+  99%   7048
+ 100%   7048 (longest request)
