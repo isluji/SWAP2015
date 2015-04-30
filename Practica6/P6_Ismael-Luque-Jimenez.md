@@ -17,6 +17,6 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica6/capturas/raid4.png)
 
-### **Simular un fallo en uno de los discos del RAID, retirarlo, comprobar que se puede acceder a la información y volver a conectarlo**
+### **Simular un fallo en uno de los discos del RAID, retirar dicho disco, comprobar que se puede acceder a la información y volver a conectarlo**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica6/capturas/raid5.png)
