@@ -39,28 +39,65 @@
 
 ## [Replicación de BD mediante configuración maestro-esclavo]
 
-### **Configuración mysql de maestro (server-id = 1) y esclavo (server-id = 2)**
+### **Configuración MySQL de maestro (server-id = 1) y esclavo (server-id = 2)**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master1.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms1.png)
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master2.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms2.png)
 
 ### **Crear usuario esclavo en el maestro y darle permisos de replicación**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master3.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms3.png)
 
 ### **Dar al esclavo los datos del maestro**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master4.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms4.png)
 
-### **(Seconds_Behind_Master != null) => Todo funciona perfectamente**
+### **Esclavo => SHOW SLAVE STATUS\G => Seconds_Behind_Master != null => Todo funciona perfectamente**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master5.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms5.png)
 
 ### **Introducir nuevos datos en la base de datos del maestro**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master6.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms6.png)
 
 ### **Comprobar que la modificación se ha reflejado en el esclavo**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/master7.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/ms7.png)
+
+
+## [Configuración maestro-maestro con balanceador HAProxy]
+
+### **Crear usuario esclavo en el maestro B y darle permisos de replicación**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm1.png)
+
+### **Dar al maestro A los datos del maestro B**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm2.png)
+
+### **Maestro B => SHOW SLAVE STATUS\G => Seconds_Behind_Master != null => Todo funciona perfectamente**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm3.png)
+
+### **Preparar ambos servidores MySQL creando dos usuarios para HAProxy (check => comprobar estado de un servidor) (root => acceder al cluster)**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm4.png)
+
+### **Instalar cliente MySQL y comprobar su funcionamiento**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm5.png)
+
+### **Configuración de HAProxy para balanceo de carga en un cluster MySQL**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm6.png)
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm7.png)
+
+### **Reiniciar HAProxy con la nueva configuración**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm8.png)
+
+### **Comprobar funcionamiento del balanceo de carga entre los servidores MySQL**
+
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm9.png)
