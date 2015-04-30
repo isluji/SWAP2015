@@ -98,6 +98,6 @@
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm8.png)
 
-### **Comprobar funcionamiento del balanceo de carga entre los servidores MySQL**
+### **Comprobar funcionamiento del balanceo de carga entre servidores MySQL**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica5/capturas/mm9.png)
