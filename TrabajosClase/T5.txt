@@ -1,0 +1,15 @@
+### PREGUNTAS TEST: TEMA 5 ###
+
+1. ¿Cuál de estas métricas es más importante en una tienda web?
+		a) Tamaño máximo del paquete
+		b) Total de conexiones concurrentes
+		c) Conexiones por segundo
+		d) Rendimiento
+	RESPUESTA CORRECTA: (b)
+
+2. ¿Cuál de éstas herramientas sirve para comprobar el rendimiento de servidores web?
+		a) CloudFlare
+		b) BIG-IP
+		c) OpenSTA
+		d) OpenStack
+	RESPUESTA CORRECTA: (c)

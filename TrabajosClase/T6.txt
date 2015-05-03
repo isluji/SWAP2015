@@ -1,0 +1,15 @@
+### PREGUNTAS TEST: TEMA 6 ###
+
+1. ¿Cuál de estas acciones no es recomendable al configurar un cortafuegos?
+		a) Configurar el cortafuegos completamente independiente del resto de recursos
+		b) El cortafuegos no debe ejecutar otro software salvo el del cortafuegos
+		c) Permitir acceso desde Internet para administrar el cortafuegos
+		d) Eliminar cualquier servicio accesorio en el cortafuegos
+	RESPUESTA CORRECTA: (c)
+	
+2. ¿Qué tipo de ataques no puede ser evitado por un balanceador de carga?
+		a) TCP SYN
+		b) Ping of Death
+		c) IP Spoofing
+		d) Man in the Middle
+	RESPUESTA CORRECTA: (d)
