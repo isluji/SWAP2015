@@ -41,4 +41,8 @@
 
 ### **Tabla de resultados y gráfica asociada para Siege**
 
+<<<<<<< HEAD
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/siege.PNG)
+=======
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/siege.PNG)
+>>>>>>> origin/master
