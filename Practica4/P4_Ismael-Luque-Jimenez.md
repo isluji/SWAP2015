@@ -20,7 +20,7 @@ echo "Tiempo empleado: " . round($tiempo_fin - $tiempo_inicio, 4);
 
 ?>
 
-### **benchmark.sh (Script utilizado para ejecutar los benchmark hacia los servidores)**
+### **benchmark.sh (Script utilizado para ejecutar todos los benchmark)**
 
 #!/bin/bash
 
