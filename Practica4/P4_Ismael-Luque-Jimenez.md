@@ -3,9 +3,9 @@
 
 ### **script.php (Script utilizado para agravar las peticiones a los servidores)**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/scrip1.PNG)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/script1.PNG)
 
-### **benchmark.sh (Script utilizado para ejecutar los benchmark hacia los servidores)**
+### **benchmark.sh (Script utilizado para ejecutar los benchmark)**
 
 ![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/script2.PNG)
 
