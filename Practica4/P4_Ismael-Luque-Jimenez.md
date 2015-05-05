@@ -37,8 +37,8 @@
 
 ### **Tabla de resultados y gráfica asociada para ApacheBench**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/ab.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/ab.PNG)
 
 ### **Tabla de resultados y gráfica asociada para Siege**
 
-![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/siege.png)
+![img](https://github.com/isma94/SWAP2015/blob/master/Practica4/capturas/siege.PNG)
