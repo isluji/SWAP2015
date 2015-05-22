@@ -1,0 +1,15 @@
+### PREGUNTAS TEST: TEMA 8 ###
+
+1. ¿Cuál de estas tecnologías de conexión de red es más utilizada en clústeres?
+		a) Gigabit Ethernet
+		b) Myrinet
+		c) InfiniBand
+		d) SCI
+	RESPUESTA CORRECTA: (b)
+
+2. ¿Cuál de estas compañías lanzó el proyecto Open Compute en 2011?
+		a) Google
+		b) Microsoft
+		c) Facebook
+		d) Yahoo!
+	RESPUESTA CORRECTA: (c)

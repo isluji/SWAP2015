@@ -1,0 +1,24 @@
+### PREGUNTAS TEST: TEMA 7 ###
+
+1. ¿Cuál de estas mejoras se puede conseguir con una configuración RAID?
+		a) Simplificar la recuperación de un desastre
+		b) Mejorar el rendimiento para todas las aplicaciones
+		c) Facilitar el traslado del almacenamiento
+		d) Acceder a los datos aunque falle un disco
+	RESPUESTA CORRECTA: (d)
+
+2. Tras el fallo de un disco, tenemos las siguientes paridades en un RAID 5:
+
+		Disco 1: 00101010 (Datos) 
+		Disco 2: 10001110 (Datos) 
+		Disco 3:  MUERTO  (Datos) 
+		Disco 4: 10110101 (Datos) 
+		Disco 5:  ¿¿¿???  (Repuesto) 
+		Disco 6: 11100110 (Paridad) 
+
+	¿Qué información de paridad se habrá generado en el disco de repuesto?
+		a) 11110111
+		b) 10010010
+		c) 00101001
+		d) 11010110
+	RESPUESTA CORRECTA: (a)
